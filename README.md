@@ -36,5 +36,5 @@ El sistema de Archivos podrá:<br/>
   -Establecer la correspondencia entre archivos y unidades de almacenamiento.<br/>
 <br/>
   Idealmente cada una de estas partes del sistema deberian trabajar conjuntamente, pero posiblemente haya inconvenientes que serán documentados dentro del código de cada programa. Se usara el compilador de DevC++ versión 5.11 y el lenguaje C++.
-  <br/>
+  <br/><br/>
   Se colocará en un archivo xml y un diagrama de clases la conceptualización o abstracción de los objetos necesarios para el programa, a su vez se encontrarán todas las versiones (mejoras) del programa.
