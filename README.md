@@ -1,5 +1,5 @@
 # OS.imulation
-<div text="center">Trabajo de simulación de un sistema operativo básico... muy básico.</div><br/>
+<div align="center">Trabajo de simulación de un sistema operativo básico... muy básico.</div><br/>
   Usando la programacion orientada a objetos, se intentará replicar/simular el comportamiento de un "kernel" básico, sin incluir la detección de hardware o software, pareciendose a un gestor de tareas/procesos y de archivos, con sus permisos, tamaños y ubicaciones en la memoria, junto a las acciones de manejo fundamentales para la memoria. 
 
 Específicamente el programa contará con:<br/>
