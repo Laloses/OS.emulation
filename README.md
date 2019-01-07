@@ -3,10 +3,10 @@ Trabajo de simulación de un sistema operativo básico... muy básico.
   Usando la programacion orientada a objetos, se intentará replicar/simular el comportamiento de un "kernel" básico, sin incluir la detección de hardware o software, pareciendose a un gestor de tareas/procesos y de archivos, con sus permisos, tamaños y ubicaciones en la memoria, junto a las acciones de manejo fundamentales para la memoria. 
 
 Específicamente el programa contará con:
-  -Gestor de procesos (CPU).
-  -Gestor de memoria principal (RAM).
-  -Gestor de almacenamiento secundario (HDD).
-  -Sistema de Archivos.
+-Gestor de procesos (CPU).
+-Gestor de memoria principal (RAM).
+-Gestor de almacenamiento secundario (HDD).
+-Sistema de Archivos.
   
 El programa NO contará con:
   -Sistema de Entrada y Salida.
